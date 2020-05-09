@@ -11,3 +11,7 @@
 5- Alimentar o BD com os clientes/usuários com cmd `php artisan migrate:refresh --seed`
 
 6- Tudo ok? Ir para o SPA para interface ou verificar a API com Postman e as rotas documentadas.
+
+>Documentação publica da API com Postman -> [AQUI](https://www.getpostman.com/collections/d11555c09b533292a408) <-
+
+7- Como criei uma **API** decidi fazer um SPA em VueJS para consumir a API, já esta pronta e configurada no seguinte repository -> https://github.com/caiquesandrade/costumer-spa
